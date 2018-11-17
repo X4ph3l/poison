@@ -4,14 +4,13 @@
                              
  # **How to install**
  
- -git clone https://github.com/x4ph3l/poison
+*-git clone* https://github.com/x4ph3l/poison
  
  # **How to use**
  
- -cd poison
+ *-cd poison*
+ *-chmod +x poison.pl*
  
- -chmod +x poison.pl
+ *-./poison.pl 127.0.0.1*
  
- -./poison.pl 127.0.0.1
- 
- -./poison.pl google.com
+ *-./poison.pl google.com*
