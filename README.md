@@ -10,4 +10,5 @@
  
  -cd poison
  -chmod +x poison.pl
- -./poison.pl [host]
+ -./poison.pl 127.0.0.1
+ -./poison.pl google.com
