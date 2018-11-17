@@ -15,3 +15,7 @@
  *-./poison.pl 127.0.0.1*
  
  *-./poison.pl google.com*
+
+# **Requirements**
+
+*-Perl:* https://www.activestate.com/products/activeperl/downloads/
