@@ -18,4 +18,4 @@
 
 # **Requirements**
 
-- *Perl:* https://www.activestate.com/products/activeperl/downloads/
+- **Perl:** https://www.activestate.com/products/activeperl/downloads/
